@@ -1,0 +1,11 @@
+ChurnProb,MonthlyCharges,LTV,tenure,Contract,InternetService,TechSupport,Fiber_NoTechSupport,PaymentMethod,ContractRiskScore,BundleDepth,ProtectionScore,EntertainmentScore
+1.0,69.6,69.6,1,Month-to-month,Fiber optic,No,1,Electronic check,3,1,0,0
+1.0,69.1,69.1,1,Month-to-month,Fiber optic,No,1,Electronic check,3,1,0,0
+1.0,69.55,69.55,1,Month-to-month,Fiber optic,No,1,Electronic check,3,1,0,0
+0.995,35.55,35.55,1,Month-to-month,DSL,No,0,Electronic check,3,1,0,1
+0.995,69.9,69.9,1,Month-to-month,Fiber optic,No,1,Electronic check,3,1,0,0
+0.995,69.9,69.9,1,Month-to-month,Fiber optic,No,1,Electronic check,3,1,0,0
+0.99,71.1,71.1,1,Month-to-month,Fiber optic,No,1,Mailed check,3,1,0,0
+0.98,69.25,69.25,1,Month-to-month,Fiber optic,No,1,Electronic check,3,1,0,0
+0.975,95.1,95.1,1,Month-to-month,Fiber optic,No,1,Electronic check,3,4,0,2
+0.975,74.5,74.5,1,Month-to-month,Fiber optic,No,1,Electronic check,3,2,0,0

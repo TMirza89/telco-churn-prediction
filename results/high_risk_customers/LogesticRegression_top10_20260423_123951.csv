@@ -1,0 +1,11 @@
+ChurnProb,MonthlyCharges,LTV,tenure,Contract,InternetService,TechSupport,Fiber_NoTechSupport,PaymentMethod,ContractRiskScore,BundleDepth,ProtectionScore,EntertainmentScore
+0.9644473475270812,95.1,95.1,1,Month-to-month,Fiber optic,No,1,Electronic check,3,4,0,2
+0.9478546361375852,93.3,93.3,1,Month-to-month,Fiber optic,No,1,Electronic check,3,4,0,2
+0.9462880632454512,102.45,102.45,1,Month-to-month,Fiber optic,No,1,Electronic check,3,6,2,2
+0.9409654303621074,85.05,85.05,1,Month-to-month,Fiber optic,No,1,Electronic check,3,3,0,1
+0.9287166513006616,88.35,88.35,1,Month-to-month,Fiber optic,No,1,Electronic check,3,3,0,2
+0.9280877053775145,89.55,89.55,1,Month-to-month,Fiber optic,No,1,Electronic check,3,3,0,2
+0.9244825747347258,95.65,95.65,1,Month-to-month,Fiber optic,No,1,Mailed check,3,4,0,2
+0.9078479294848278,94.85,284.54999999999995,3,Month-to-month,Fiber optic,No,1,Electronic check,3,4,0,2
+0.898929747715985,100.95,302.85,3,Month-to-month,Fiber optic,No,1,Electronic check,3,5,1,2
+0.8973243930742493,90.85,90.85,1,Month-to-month,Fiber optic,No,1,Credit card (automatic),3,4,0,1
